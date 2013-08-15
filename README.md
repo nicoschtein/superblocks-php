@@ -14,3 +14,8 @@ PHP client for [superblocks](https://github.com/superblocks/superblocks), automa
     Help: -h shows this message
     Example: php main.php -c dmd
     Example with debug: php main.php -d -c str
+    
+Configuration
+-------------
+
+Make a copy of `include/config/config.inc.dist.php`, modify accordingly and set the file name to `config.inc.php`.
