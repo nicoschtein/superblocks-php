@@ -1,5 +1,5 @@
 <?php
-// Make sure we are called from index.php
+// Make sure we are called from main.php
 if (!defined('SECURITY'))
   die('use main.php');
   
